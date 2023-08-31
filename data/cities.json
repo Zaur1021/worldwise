@@ -1,15 +1,26 @@
 {
   "cities": [
     {
-      "cityName": "Caleruega",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-30T05:55:35.084Z",
+      "cityName": "Nenzing",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2023-08-31T03:41:16.560Z",
       "position": {
-        "lat": "41.80407814427237",
-        "lng": "-3.4936523437500004"
+        "lat": "47.13070263477925",
+        "lng": "9.730605596545788"
       },
-      "id": 1
+      "id": 3
+    },
+    {
+      "cityName": "Nanjing",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2023-08-31T03:41:29.573Z",
+      "position": {
+        "lat": "31.970803930433096",
+        "lng": "118.80615234375"
+      },
+      "id": 4
     }
   ]
 }
