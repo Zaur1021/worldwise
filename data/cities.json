@@ -1,26 +1,37 @@
 {
   "cities": [
     {
-      "cityName": "Nenzing",
-      "country": "Austria",
-      "emoji": "🇦🇹",
-      "date": "2023-08-31T03:41:16.560Z",
-      "position": {
-        "lat": "47.13070263477925",
-        "lng": "9.730605596545788"
-      },
-      "id": 3
-    },
-    {
-      "cityName": "Nanjing",
+      "cityName": "Zhenjiang",
       "country": "China",
       "emoji": "🇨🇳",
-      "date": "2023-08-31T03:41:29.573Z",
+      "date": "2023-09-04T16:00:00.000Z",
       "position": {
-        "lat": "31.970803930433096",
-        "lng": "118.80615234375"
+        "lat": "31.952162238024975",
+        "lng": "119.31152343750001"
       },
-      "id": 4
+      "id": 1
+    },
+    {
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-09-05T03:49:11.185Z",
+      "position": {
+        "lat": "55.60317816902704",
+        "lng": "37.57324218750001"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-09-05T03:50:06.990Z",
+      "position": {
+        "lat": "41.00477542222949",
+        "lng": "29.003906250000004"
+      },
+      "id": 3
     }
   ]
 }
